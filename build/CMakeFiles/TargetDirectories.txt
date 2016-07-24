@@ -1,8 +1,0 @@
-/Users/zhouyang/test/protobuf_project/build/CMakeFiles/edit_cache.dir
-/Users/zhouyang/test/protobuf_project/build/CMakeFiles/rebuild_cache.dir
-/Users/zhouyang/test/protobuf_project/build/src/CMakeFiles/edit_cache.dir
-/Users/zhouyang/test/protobuf_project/build/src/CMakeFiles/rebuild_cache.dir
-/Users/zhouyang/test/protobuf_project/build/src/CMakeFiles/test_protobuf.dir
-/Users/zhouyang/test/protobuf_project/build/proto/CMakeFiles/edit_cache.dir
-/Users/zhouyang/test/protobuf_project/build/proto/CMakeFiles/rebuild_cache.dir
-/Users/zhouyang/test/protobuf_project/build/proto/CMakeFiles/proto.dir
