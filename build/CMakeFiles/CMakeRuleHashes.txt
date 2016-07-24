@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+04b41c5c4740ee64844de526946986da proto/head.pb.h
+1362fbfe7dee2986511f58f6176299d1 proto/kv.pb.h

@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/test_protobuf.dir/main.cpp.o  -o ../test_protobuf  -L/usr/local/Cellar/protobuf/2.6.1/lib ../proto/libproto.a -lprotobuf -Wl,-rpath,/usr/local/Cellar/protobuf/2.6.1/lib 
